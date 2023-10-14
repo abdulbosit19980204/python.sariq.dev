@@ -8,8 +8,14 @@ Created on Thu Oct 12 15:50:46 2023
 
 print("Hello world")
 
-import turtle
 
-forward(100)
-left(120)
-forward(100)
+print(5+3)
+
+print("""Hello""")
+
+print(1155/6)
+print(1155//6)
+print(8**2)
+print(4**(1/2))
+
+print('"Nexia", "Tico",'" 'Damas' ko'rganlar qilar havas")
