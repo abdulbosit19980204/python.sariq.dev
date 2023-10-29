@@ -36,3 +36,5 @@ for meva in mvealar:
     print(meva)
 
 # Natija: NameError: name 'mvealar' is not defined
+
+
